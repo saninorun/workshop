@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sqlalchemy
+alembic
+aiosqlite
+greenlet
+pydantic[email]
+psycopg2
+pre-commit
+python-multipart

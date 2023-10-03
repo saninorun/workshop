@@ -1,0 +1,8 @@
+__pycache__
+WWWWWW
+migrations
+*.csv
+*.ipynb
+*.db
+*.7z
+*.zip
